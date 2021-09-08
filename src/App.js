@@ -1,4 +1,4 @@
-import "./styles.css";
+import React from "react";
 import EmojiInterpreter from "./components/EmojiInterpreter";
 
 export default function App() {
