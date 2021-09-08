@@ -1,5 +1,6 @@
-import emojiData from "/assets/emojiData";
+import emojiData from "../assets/emojiData";
 import { useRef, useState } from "react";
+import "./EmojiInterpreter.css";
 
 export default function EmojiInterpreter() {
   //state variable to store emoji and it's meaning
